@@ -6,8 +6,8 @@ I have a passion for coding and bringing ideas to life on the web.
 
 When I'm not building projects, you can probably find me exploring the world through GeoGuessr!
 
-🔭 What I'm Up To
-👨‍💻 Building and maintaining frontend applications.
+## 🔭 What I'm Up To
+👨‍💻 Building and maintaining frontend applications for cobra computer's brainware GmbH.
 
 🎨 Experimenting with creative coding and design on Codepen.
 
